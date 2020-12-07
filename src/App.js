@@ -10,8 +10,8 @@ function App() {
       <Header />
       <div className="container-fluid">
         <div className="row">
-          <Navbar />
-          <Content />
+          {/* <Navbar />
+          <Content /> */}
         </div>
       </div>
     </div>
